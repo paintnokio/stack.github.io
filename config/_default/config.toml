@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://stack.github.io"
+baseurl = "https://paintnokio.github.io/"
 languageCode = "en-us"
 title = "Stack Starter"
 
