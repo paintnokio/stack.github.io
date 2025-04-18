@@ -10,7 +10,7 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://stack.github.io"
+url = "https://paintnokio.github.io/"
 
 [social.params]
 icon = "brand-github"
